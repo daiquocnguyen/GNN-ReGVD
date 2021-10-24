@@ -26,16 +26,16 @@ python run.py --output_dir=./saved_models/regcn_l2_hs128_uni_ws5_lr5e4 --model_t
 ```
 
 #### Requirements
-- Python 	3.x
-- Pytorch 	1.5.0
-- Transformer 	x
+- Python 	3.7
+- Pytorch 	1.9
+- Transformer 	4.4
 
 ## Cite  
 Please cite the paper whenever our ReGVD is used to produce published results or incorporated into other software:
 
 	@article{Nguyen2021regvd,
 		author={Van-Anh Nguyen and Dai Quoc Nguyen and Van Nguyen and Trung Le and Quan Hung Tran and Dinh Phung},
-		title={ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection },
+		title={Re{GVD}: Revisiting Graph Neural Networks for Vulnerability Detection},
 		journal={arXiv preprint arXiv:2110.07317},
 		year={2021}
 	}
