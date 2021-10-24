@@ -559,10 +559,10 @@ def main():
     else:
         model = model_class(config)
 
-    # model
-    if args.model == "original":
-        model = Model(model,config,tokenizer,args)
-    elif args.model == "devign":
+    ## model
+    # if args.model == "original":
+    #     model = Model(model,config,tokenizer,args)
+    if args.model == "devign":
         model = DevignModel(model, config, tokenizer, args)
     else: #GNNs
         model = GNNReGVD(model, config, tokenizer, args)
