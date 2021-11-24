@@ -4,7 +4,7 @@
 
 # Revisiting Graph Neural Networks for Vulnerability Detection
 
-This program provides the implementation of our ReGVD, as described in our paper, a general, simple yet effective graph neural network-based model for vulnerability detection.
+This program provides the implementation of our ReGVD, as described in [our paper](https://arxiv.org/abs/2110.07317), a general, simple yet effective graph neural network-based model for vulnerability detection.
 
 Graph construction            |  Graph neural networks with residual connection
 :-------------------------:|:-------------------------:
