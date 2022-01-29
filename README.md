@@ -33,11 +33,11 @@ python run.py --output_dir=./saved_models/regcn_l2_hs128_uni_ws5_lr5e4 --model_t
 ## Cite  
 Please cite the paper whenever our ReGVD is used to produce published results or incorporated into other software:
 
-	@article{NguyenReGVD,
+	@inproceedings{NguyenReGVD,
 		author={Van-Anh Nguyen and Dai Quoc Nguyen and Van Nguyen and Trung Le and Quan Hung Tran and Dinh Phung},
 		title={ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection},
 		booktitle={Proceedings of ICSE 2022 (Demonstrations)},
-    		year={2022}
+		year={2022}
 	}
 
 ## License
