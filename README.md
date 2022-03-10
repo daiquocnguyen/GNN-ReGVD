@@ -36,7 +36,7 @@ Please cite the paper whenever our ReGVD is used to produce published results or
 	@inproceedings{NguyenReGVD,
 		author={Van-Anh Nguyen and Dai Quoc Nguyen and Van Nguyen and Trung Le and Quan Hung Tran and Dinh Phung},
 		title={ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection},
-		booktitle={Proceedings of ICSE 2022 (Demonstrations)},
+		booktitle={Proceedings of the 44th International Conference on Software Engineering Companion (ICSE '22 Companion)},
 		year={2022}
 	}
 
